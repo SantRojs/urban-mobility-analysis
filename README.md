@@ -17,4 +17,8 @@ Brasília, Recife, Belo Horizonte, Curitiba, Salvador, Manaus, Belém, Montevide
 Santiago, La Paz
 
 **Skills and technology used:** ![Static Badge](https://img.shields.io/badge/Python-yellow?style=plastic&logo=python&logoColor=white&logoSize=auto&labelColor=black)
-![Static Badge](https://img.shields.io/badge/Pandas-lightblue?style=plastic&logo=pandas&logoColor=white&logoSize=auto&labelColor=black)
+![Static Badge](https://img.shields.io/badge/Pandas-pink?style=plastic&logo=pandas&logoColor=white&logoSize=amg&labelColor=black)
+![Static Badge](https://img.shields.io/badge/NumPy-lightblue?style=plastic&logo=numpy&logoColor=white&logoSize=amg&labelColor=black)
+![Static Badge](https://img.shields.io/badge/Seaborn-blue?style=plastic)
+![Static Badge](https://img.shields.io/badge/Matplotlib-blue?style=plastic)
+
