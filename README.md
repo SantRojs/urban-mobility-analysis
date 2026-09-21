@@ -14,7 +14,7 @@ to evaluate whether urban infrastructure affects economic productivity.
 Objective: identify which cities have optimization opportunities and where 
 investment could yield highest returns.
 
-**Data sources:** TomTom Traffic Index (tomtom_traffic.csv) + OECD Cities database (oecd_city_economy.csv)
+**Data sources:** TomTom Traffic Index + OECD Cities database
 
 **Analysis period:** 2024
 
